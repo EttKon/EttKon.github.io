@@ -1,1 +1,1 @@
-# EttKon.github.io
+# Picture generator doucmentation
