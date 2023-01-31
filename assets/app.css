@@ -9,11 +9,11 @@ header {
 	padding-bottom: 25px;
 	flex-direction: column;
 }
-*/
+
 img {
 	width: 100%;
 }
-
+*/
 .flex {
 	display: flex;
 	justify-content: center;
