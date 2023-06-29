@@ -6,7 +6,7 @@ loginButton.addEventListener("click", (e) => {
 	const pswd = loginForm.value;
 
 	if(pswd === "pickle") {
-		window.location.href = "/EttKon.github.io-Picture-Generator/picture_generator.html";
+		window.location.href = "https://ettkon.github.io/picture_generator.html";
 	}
 	else {
 		alert("wrong password");
